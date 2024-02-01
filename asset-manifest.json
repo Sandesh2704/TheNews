@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sandesh2704/TheNews.git/static/css/main.6300e54f.css",
+    "main.js": "/Sandesh2704/TheNews.git/static/js/main.b02c8067.js",
+    "static/js/787.e3dd2533.chunk.js": "/Sandesh2704/TheNews.git/static/js/787.e3dd2533.chunk.js",
+    "index.html": "/Sandesh2704/TheNews.git/index.html",
+    "main.6300e54f.css.map": "/Sandesh2704/TheNews.git/static/css/main.6300e54f.css.map",
+    "main.b02c8067.js.map": "/Sandesh2704/TheNews.git/static/js/main.b02c8067.js.map",
+    "787.e3dd2533.chunk.js.map": "/Sandesh2704/TheNews.git/static/js/787.e3dd2533.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6300e54f.css",
+    "static/js/main.b02c8067.js"
+  ]
+}
