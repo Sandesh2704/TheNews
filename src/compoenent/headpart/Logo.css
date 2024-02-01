@@ -1,0 +1,31 @@
+.logohead{
+    justify-content: space-between;
+    display: flex;
+    background-color: violet;
+}
+
+.logo{
+    font-size: 60px;
+    margin-left: 30px;
+    font-family: Serif;
+    margin-top: 15px;
+}
+.weather{
+    display: flex;
+    margin: 10px;
+    margin-right: 10px;
+}
+@media(max-width:400px) {
+    .weather {
+      display: none;
+    }
+  
+    .logo {
+      font-size: 40px;
+      font-family: Serif;
+      margin: 15px;
+      margin-top: 10px;
+      font-weight: 600;
+    }
+  }
+  

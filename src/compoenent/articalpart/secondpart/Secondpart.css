@@ -1,0 +1,41 @@
+
+
+.box{
+    
+  background-color: #ffffff ;
+ 
+}
+.img-fluid  {
+    max-width: 100%;
+    height: auto;
+     transition: ease-in-out 600ms;
+     border-radius: 7px 7px 0px 0px ;
+  }
+
+  .card-border {
+    border-radius: 7px;
+    border: 1px solid silver;
+  }
+.card-body2{
+  padding: 10px 12px 15px 12px;
+}
+.extra{
+  padding: 10px 0px 0px 0px;
+}
+
+
+@media(max-width:700px) {
+  .card-body2{
+    padding: 10px 12px 15px 12px;
+  }
+  .extra{
+    padding: 10px 0px 0px 0px;
+  }
+  .extra2{
+    margin-top: 8px;
+  }
+}
+
+
+
+
